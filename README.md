@@ -1,5 +1,5 @@
-# Lombok Screenshot : 
-Solarized dark             |  Solarized Ocean
+# Lombok Screenshot : (https://lombok.netlify.app/)
+Home Page           |  Article Page
 :-------------------------:|:-------------------------:
-![screen](/home-ss.png)  |  ![screen](/article-ss.png)
+![](/article-ss.png)  |  ![](/home-ss.png)
 
