@@ -1,4 +1,4 @@
-# Lombok Screenshot : (https://lombok.netlify.app/)
+# Lombok Screenshot : (https://lombook.netlify.app/)
 Home Page           |  Article Page
 :-------------------------:|:-------------------------:
 ![](/article-ss.png)  |  ![](/home-ss.png)
